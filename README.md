@@ -1,6 +1,6 @@
 # One-Class-Variational-Autoencoder-OCVAE-
 OCVAE is a methodology designed as feature extractor to diffrentiate between atypical bone marow cell-subtypes
-![screenshot](https://github.com/user-attachments/files/17536672/ocvae_1.pdf)
+![screenshot](https://github.com/user-attachments/assets/e541de6b-7a63-40d3-8e01-944c3c565a79)
 
 # Requirements
 Tested with Python 3.6
